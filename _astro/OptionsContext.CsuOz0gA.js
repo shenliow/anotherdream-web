@@ -1,0 +1,1 @@
+import{o as e,t}from"./react.cZmHRoh9.js";import{n}from"./emotion-react-jsx-runtime.browser.esm.DPgDAmcd.js";var r=e(t(),1),i=r.createContext({});function a({children:e,value:t}){return n(i.Provider,{value:t,children:e})}function o(){let e=r.useContext(i);if(e===void 0)throw Error(`useOptions must be used within an OptionsContext`);return e}export{a as n,o as r,i as t};

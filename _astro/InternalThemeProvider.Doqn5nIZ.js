@@ -1,0 +1,1 @@
+import{t as e}from"./react.cZmHRoh9.js";import{a as t,n}from"./emotion-react-jsx-runtime.browser.esm.DPgDAmcd.js";import{r}from"./AppearanceContext.GBJhbJ9N.js";e();var i=e=>{let{parsedInternalTheme:i}=r();return n(t,{theme:i,children:e.children})};export{i as t};

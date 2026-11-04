@@ -1,0 +1,1 @@
+import{o as e,t}from"./react.cZmHRoh9.js";import{t as n}from"./react-dom.BTZRzsE8.js";var r=e(t(),1),i=e(n(),1),a=e=>{let t=r.useRef(document.createElement(`div`));return r.useEffect(()=>(document.body.appendChild(t.current),()=>{document.body.removeChild(t.current)}),[]),(0,i.createPortal)(e.children,t.current)};export{a as t};

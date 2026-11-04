@@ -1,0 +1,1 @@
+import{o as e,t}from"./react.cZmHRoh9.js";import{n}from"./emotion-react-jsx-runtime.browser.esm.DPgDAmcd.js";var r=e(t(),1),i=r.createContext(void 0),a=({children:e,moduleManager:t})=>n(i.Provider,{value:t,children:e}),o=()=>{let e=r.useContext(i);if(!e)throw Error(`useModuleManager must be used within a ModuleManagerProvider`);return e};export{o as n,a as t};
