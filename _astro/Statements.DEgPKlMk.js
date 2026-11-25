@@ -1,0 +1,1 @@
+import{t as e}from"./StatementPage.Gz3TrgLs.js";export{e as StatementPage};

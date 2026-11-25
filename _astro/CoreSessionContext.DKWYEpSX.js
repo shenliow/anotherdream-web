@@ -1,0 +1,1 @@
+import{t as e}from"./react.cZmHRoh9.js";import{P as t}from"./react.D_5HX0hu.js";import{n}from"./emotion-react-jsx-runtime.browser.esm.DPgDAmcd.js";e();function r(e){let r=r=>t()===void 0?null:n(e,{...r}),i=e.displayName||e.name||`Component`;return e.displayName=i,r.displayName=i,r}export{r as t};

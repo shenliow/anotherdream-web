@@ -1,0 +1,1 @@
+import{K as e}from"./react.D_5HX0hu.js";var t=({routing:t,path:n})=>n&&!t?{routing:`path`,path:n}:t!==`path`&&n?e(t):{routing:t,path:n};export{t};

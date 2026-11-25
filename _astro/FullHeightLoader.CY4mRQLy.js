@@ -1,0 +1,1 @@
+import{n as e}from"./emotion-react-jsx-runtime.browser.esm.DPgDAmcd.js";import{d as t,k as n}from"./customizables.DNBkR_9I.js";import{i as r}from"./makeCustomizable.D2BiS4NZ.js";var i=()=>e(t,{center:!0,sx:{height:`100%`},children:e(n,{colorScheme:`primary`,size:`lg`,elementDescriptor:r.spinner})});export{i as t};
